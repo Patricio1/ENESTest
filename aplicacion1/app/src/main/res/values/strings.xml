@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">aplicacion1</string>
+    <string name="txtView">Formas Disponibles</string>
+    <string name="btnAnterior">Anterior</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="btnAbstracto">Abstracto</string>
+    <string name="btnNumerico">Numerico</string>
+    <string name="btnVerbal">Verbal</string>
+    <string name="btnFinalizar">Finalizar</string>
+    <string name="txtTime">00:00:00</string>
+    <string name="txtInicio">Para realizar la prueba tipo ENES selecciona una de nuestras formas disponibles.</string>
+    <string name="txtCategoria">Categoria</string>
+    <string name="txtNumeroPregunta">Pregunta Numero n</string>
+    <string name="txtIndicacion">Indicacion</string>
+    <string name="txtEnunciado">Enunciado</string>
+</resources>
